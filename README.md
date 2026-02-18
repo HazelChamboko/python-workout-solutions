@@ -32,4 +32,6 @@ Click a link below to view my progress and solutions for each chapter:
 ---
 
 If you guys want the textbook, visit your shady websites, I'm sure you will get it for free there!
+
+
 *Created by Hazel — Learning Python from scratch!*
